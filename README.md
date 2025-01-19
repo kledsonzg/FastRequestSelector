@@ -1,6 +1,6 @@
 # Fast Request Selector
 ----------
-<b>Fast Request Selector</b> é um biblioteca C# .NET que oferece ao usuário fazer requisições HTTP simples e também customizadas e obter todos os elementos que precisar utilizando as <b>REGRAS CSS</b>.
+<b>Fast Request Selector</b> é uma biblioteca C# .NET que oferece ao usuário fazer requisições HTTP simples e também customizadas para obter todos os elementos que precisar utilizando as <b>REGRAS CSS</b>.
 Vamos ver um exemplo abaixo:
 
 Vamos supor que quero obter as linguagens mais usadas do perfil oficial do GitHub.
