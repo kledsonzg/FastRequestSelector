@@ -15,8 +15,6 @@ Se a gente obter todos os elementos baseados apenas nisso, iriamos obter outros 
 ```// Utilizando a classe estática "Request".
 using KledsonZG.FastRequestSelector;
 
-namespace Program;
-
 public static void Main(string[] args)
 {
     var elements = Request.GetElements("https://github.com/github", ".ml-0 [itemprop=\"programmingLanguage\"]");
