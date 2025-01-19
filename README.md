@@ -13,7 +13,7 @@ Se a gente obter todos os elementos baseados apenas nisso, iriamos obter outros 
 
 
 ```// Utilizando a classe estática "Request".
-using KledsonZG.FastRequest.Selector;
+using KledsonZG.FastRequestSelector;
 
 namespace Program;
 
